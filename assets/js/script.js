@@ -31,6 +31,7 @@ for (let i = 0; i < navbarLinks.length; i++) {
 
 
 
+
 /**
  * back to top & header
  */
@@ -59,8 +60,11 @@ var typed = new Typed(".typing", {
   loop: true,
 });
 var typed = new Typed(".typi", {
-  strings: ["Backend Developer"],
+  strings: ["Hi, I am Shraddha",
+  "I am Node.js Backend Developer"],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
 });
+
+
