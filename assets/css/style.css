@@ -571,6 +571,9 @@ ion-icon {
   height: 100%;
   border-radius: inherit;
 }
+.react-activity-calendar{
+  width: 100%;
+}
 
 
 
