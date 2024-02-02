@@ -1263,7 +1263,7 @@ max-width: 600px;}
   align-items: center;
 }
 
-.skill {
+.skills-card {
   position: relative;
   margin: 20px;
   overflow: hidden;
@@ -1276,7 +1276,7 @@ max-width: 600px;}
   color: white;
 }
 
-.skill .skills-card-img {
+.skills-card .skills-card-img {
   
   height: 100px;
  
@@ -1299,11 +1299,11 @@ max-width: 600px;}
   border-radius: 5px;
 }
 
-.skill:hover .skills-card-img {
+.skills-card:hover .skills-card-img {
   transform: scale(1.2);
 }
 
-.skill:hover .skill-overlay {
+.skills-card:hover .skill-overlay {
   opacity: 1;
 }
 .social{
