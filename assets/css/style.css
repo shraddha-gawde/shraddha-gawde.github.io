@@ -409,7 +409,7 @@ body {
 
 .portfolio-list {
   display: grid;
-  gap: 60px;
+  gap: 10px;
 }
 
 .project-card {
@@ -671,7 +671,7 @@ textarea.contact-input {
   #BLOG
 \*-----------------------------------*/
 
-.blog { padding-block-end: 120px; }
+/* .blog { padding-block-end: 120px; } */
 
 .blog .section-title { margin-block-end: 20px; }
 
@@ -1235,7 +1235,7 @@ max-width: 600px;}
    * BLOG
    */
 
-  .blog { padding-block-end: 180px; }
+  /* .blog { padding-block-end: 180px; } */
 
   .blog-list {
     grid-template-columns: repeat(3, 1fr);
